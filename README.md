@@ -6,3 +6,4 @@
 # so here's how we play you see those left and right keys and also up keys and down you use them to move the player
 # next you hava to dough the obstacale ang if you die in the game click refresh to restart
 # and on top is your score
+# launguage html from the top in side button javascript
